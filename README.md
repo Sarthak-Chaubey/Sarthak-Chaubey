@@ -192,6 +192,26 @@
 
 ---
 
+# 🔗 Connect & Code
+
+<p align="center">
+
+<a href="https://github.com/Sarthak-Chaubey">
+  <img
+    src="https://img.shields.io/badge/GitHub-Sarthak--Chaubey-181717?style=for-the-badge&logo=github"
+    alt="GitHub Profile"
+  />
+</a>
+
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-sarthakchaubey07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode Profile"
+  />
+</a>
+
+</p>
+
 # ⚙️ DevOps
 
 <p align="center">
@@ -448,121 +468,3 @@ Networking            ███████████░░░░░░ 65%
 
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sarthak-Chaubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Chaubey&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.vercel.app/?user=Sarthak-Chaubey&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Chaubey&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-# 🧩 LeetCode Analytics
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-  <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=profile,solved,streak,skills,languages,heatmap&hide_border=true&short_numbers=true"
-    alt="LeetCode Analytics"
-  />
-</a>
-
-</p>
-
----
-
-# 🔥 LeetCode Streak
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-  <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=streak&hide_border=true"
-    alt="LeetCode Streak"
-  />
-</a>
-
-</p>
-
----
-
-# 📈 LeetCode Submission Graph
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-  <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=heatmap&hide_border=true"
-    alt="LeetCode Submission Heatmap"
-  />
-</a>
-
-</p>
-
----
-
-# 💻 LeetCode Profile
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-  <img
-    src="https://leetcard.jacoblin.cool/sarthakchaubey07?theme=dark&font=Fira%20Code&ext=contest"
-    alt="LeetCode Profile"
-  />
-</a>
-
-</p>
