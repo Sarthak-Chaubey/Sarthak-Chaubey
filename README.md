@@ -1,33 +1,36 @@
-<!-- ====================================================== -->
-<!--                  PREMIUM GITHUB PROFILE                -->
-<!-- ====================================================== -->
-
 <h1 align="center">
-Hi 👋, I'm Sarthak Chaubey
+  Hi 👋, I'm Sarthak Chaubey
 </h1>
 
 <h3 align="center">
-Cyber Security • DevSecOps • Cloud • AI Enthusiast
+  Cyber Security • DevSecOps • Cloud • AI Enthusiast
 </h3>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Cyber+Security+Engineer;DevSecOps+Engineer;Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New..."
+    alt="Typing Animation"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Cyber+Security+Engineer;DevSecOps+Engineer;Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+Something+New..." />
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Sarthak-Chaubey&label=Profile%20Views&color=blueviolet&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/Sarthak-Chaubey?logo=github&style=for-the-badge"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/Sarthak-Chaubey?logo=github&style=for-the-badge"
+    alt="GitHub Stars"
+  />
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sarthak-Chaubey&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Sarthak-Chaubey?logo=github&style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/Sarthak-Chaubey?logo=github&style=for-the-badge">
-
-</p>
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -40,16 +43,22 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
       srcset="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
+
 ---
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img
+  align="right"
+  width="380"
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  alt="Coding Animation"
+/>
 
 🎓 B.Tech CSE (Cyber Security)
 
@@ -61,9 +70,9 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 🐳 Docker Enthusiast
 
-☸ Learning Kubernetes
+☸️ Learning Kubernetes
 
-⚙ CI/CD Automation
+⚙️ CI/CD Automation
 
 🌐 AWS Cloud
 
@@ -73,7 +82,7 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 🚀 Building Secure Applications
 
-📚 Currently learning
+### 📚 Currently Learning
 
 - Kubernetes
 - Terraform
@@ -88,26 +97,41 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+<p align="center">
 
 <a href="https://github.com/Sarthak-Chaubey">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://tryhackme.com/p/YOUR_ID">
-<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
+<a href="https://www.linkedin.com/in/-sarthak/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="https://www.hackthebox.com/profile/YOUR_ID">
-<img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox">
+<a href="mailto:sarthakchaubey07@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="https://www.instagram.com/iam.sarthak__/">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"
+    alt="Instagram"
+  />
 </a>
 
 </p>
@@ -116,23 +140,16 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 # 💻 Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+<img src="https://skillicons.dev/icons?i=c" alt="C" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 
 </p>
 
@@ -140,67 +157,53 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 # 🚀 Frameworks
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
 
 </p>
 
 ---
 
-# 🗄 Databases
+# 🗄️ Databases
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
 
 </p>
 
 ---
 
-# ☁ Cloud
+# ☁️ Cloud
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+<img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
 
 </p>
 
 ---
 
-# ⚙ DevOps
+# ⚙️ DevOps
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-<img src="https://skillicons.dev/icons?i=terraform"/>
-
-<img src="https://skillicons.dev/icons?i=ansible"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 
 </p>
 
@@ -208,66 +211,74 @@ Cyber Security • DevSecOps • Cloud • AI Enthusiast
 
 # 🔐 Cyber Security
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 
-<img src="https://skillicons.dev/icons?i=kali"/>
+<img
+  src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"
+  alt="Nmap"
+/>
 
-<img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge"/>
+<img
+  src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"
+  alt="Burp Suite"
+/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img
+  src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"
+  alt="Metasploit"
+/>
 
-<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"/>
+<img
+  src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"
+  alt="Wireshark"
+/>
 
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img
+  src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"
+  alt="Nessus"
+/>
 
-<img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenVAS-green?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
+<img
+  src="https://img.shields.io/badge/OpenVAS-green?style=for-the-badge"
+  alt="OpenVAS"
+/>
 
 </p>
 
 ---
 
-# 🖥 Operating Systems
+# 🛠️ Tools
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-<img src="https://skillicons.dev/icons?i=ubuntu"/>
-
-<img src="https://skillicons.dev/icons?i=debian"/>
-
-<img src="https://skillicons.dev/icons?i=kali"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 
 </p>
 
 ---
+
+# 🖥️ Operating Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+<img src="https://skillicons.dev/icons?i=debian" alt="Debian" />
+<img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+
+</p>
+
+---
+
 # 🚀 Featured Projects
-
----
 
 ## 🔐 DevSecOps CI/CD Pipeline
 
@@ -307,23 +318,15 @@ A vulnerable Node.js application built for learning Web Security.
 
 ### Includes
 
-✔ SQL Injection
-
-✔ XSS
-
-✔ CSRF
-
-✔ File Upload
-
-✔ Authentication
-
-✔ Docker Support
-
-✔ REST API
-
-✔ Login System
-
-✔ Session Handling
+- ✔️ SQL Injection
+- ✔️ XSS
+- ✔️ CSRF
+- ✔️ File Upload
+- ✔️ Authentication
+- ✔️ Docker Support
+- ✔️ REST API
+- ✔️ Login System
+- ✔️ Session Handling
 
 ---
 
@@ -343,11 +346,11 @@ Python-based plagiarism detector.
 
 ---
 
-## ☁ AWS Infrastructure Automation
+## ☁️ AWS Infrastructure Automation
 
 Infrastructure as Code using Terraform.
 
-Provisioning
+### Provisioning
 
 - EC2
 - VPC
@@ -358,9 +361,9 @@ Provisioning
 
 ---
 
-## 🛡 Malware Analysis Lab
+## 🛡️ Malware Analysis Lab
 
-Learning Malware Analysis using
+Learning Malware Analysis using:
 
 - PE Studio
 - Detect It Easy
@@ -375,7 +378,7 @@ Learning Malware Analysis using
 
 ## 🌐 Portfolio Website
 
-Personal portfolio showcasing
+Personal portfolio showcasing:
 
 - Skills
 - Projects
@@ -385,25 +388,19 @@ Personal portfolio showcasing
 
 ---
 
-# 🏆 Certifications
+# 📜 Certifications & Learning
 
-📜 AWS Cloud Practitioner (Learning)
+The uploaded README listed the following areas:
 
-📜 Docker
-
-📜 Kubernetes
-
-📜 Git & GitHub
-
-📜 Linux
-
-📜 Python
-
-📜 Cyber Security
-
-📜 Network Security
-
-📜 Ethical Hacking
+- AWS Cloud Practitioner — Learning
+- Docker
+- Kubernetes
+- Git & GitHub
+- Linux
+- Python
+- Cyber Security
+- Network Security
+- Ethical Hacking
 
 ---
 
@@ -424,25 +421,16 @@ Personal portfolio showcasing
 
 # 🎯 2026 Goals
 
-✅ Build Production DevSecOps Pipeline
-
-⬜ AWS Certification
-
-⬜ Kubernetes Certification
-
-⬜ Solve 500+ DSA Problems
-
-⬜ Contribute to Open Source
-
-⬜ Publish Security Research
-
-⬜ Build SaaS Project
-
-⬜ Learn Reverse Engineering
-
-⬜ Create Cyber Security Labs
-
-⬜ Write Technical Blogs
+- ✅ Build Production DevSecOps Pipeline
+- ⬜ AWS Certification
+- ⬜ Kubernetes Certification
+- ⬜ Solve 500+ DSA Problems
+- ⬜ Contribute to Open Source
+- ⬜ Publish Security Research
+- ⬜ Build SaaS Project
+- ⬜ Learn Reverse Engineering
+- ⬜ Create Cyber Security Labs
+- ⬜ Write Technical Blogs
 
 ---
 
@@ -450,269 +438,10 @@ Personal portfolio showcasing
 
 ```text
 Cyber Security        ██████████████░░░░ 75%
-
 DevSecOps             ███████████████░░ 80%
-
 Cloud                 ███████████░░░░░░ 60%
-
 Docker                ████████████████░ 90%
-
 Linux                 ██████████████░░░ 78%
-
 Python                ████████████░░░░░ 70%
-
 JavaScript            █████████████░░░░ 75%
-
 Networking            ███████████░░░░░░ 65%
-```
-
----
-
-# ⚡ Fun Fact
-
-> "Security isn't a product; it's a process."
-
----
-
-# 💡 Quote
-
-> Learn.
->
-> Build.
->
-> Break.
->
-> Secure.
->
-> Repeat.
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Sarthak-Chaubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Chaubey&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarthak-Chaubey&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Chaubey&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarthak-Chaubey&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/Sarthak-Chaubey/devsecops-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=devsecops-project&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Sarthak-Chaubey/Cyber-Lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=Cyber-Lab&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/Sarthak-Chaubey"/>
-
-</p>
-
----
-
-# ⚡ Development Workflow
-
-```text
-Idea
- │
- ▼
-Research
- │
- ▼
-Planning
- │
- ▼
-Coding
- │
- ▼
-Testing
- │
- ▼
-Docker
- │
- ▼
-CI/CD
- │
- ▼
-Deployment
- │
- ▼
-Monitoring
-```
-
----
-
-# 💻 Tech Focus
-
-```text
-Cyber Security        ████████████████████ 100%
-
-DevSecOps             █████████████████░░ 90%
-
-Docker                ███████████████████ 95%
-
-Linux                 █████████████████░░ 88%
-
-Cloud                 ██████████████░░░░░ 75%
-
-AWS                   ██████████████░░░░░ 70%
-
-Terraform             ████████████░░░░░░░ 65%
-
-Kubernetes            █████████████░░░░░░ 68%
-
-Python                ███████████████░░░░ 82%
-
-Node.js               ████████████████░░░ 85%
-```
-
----
-
-# 📈 Weekly Coding
-
-```text
-Monday       ████████████
-
-Tuesday      ██████████████
-
-Wednesday    ███████████████
-
-Thursday     ████████████████
-
-Friday       █████████████████
-
-Saturday     ████████████
-
-Sunday       ██████████
-```
-
----
-
-# 🧠 Motto
-
-> "Secure by Design. Automate by Default. Learn Forever."
-
----
-
-# 💬 Favorite Quote
-
-> “The quieter you become, the more you are able to hear.”
-
-— Rumi
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sarthak-Chaubey&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-<img src="https://leetcard.jacoblin.cool/sarthakchaubey07?theme=dark&font=Fira%20Code&ext=contest" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://leetcode-stats.vercel.app/api?username=sarthakchaubey07&theme=Dark"/>
-
-</p>
-<p align="center">
-
-<a href="https://github.com/Sarthak-Chaubey">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/-sarthak/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:sarthakchaubey07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://leetcode.com/u/sarthakchaubey07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-<a href="https://www.instagram.com/iam.sarthak__/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-
-</a>
-
-</p>
-
-# 🌟 Support My Work
-
-<p align="center">
-
-<a href="https://github.com/Sarthak-Chaubey">
-<img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
