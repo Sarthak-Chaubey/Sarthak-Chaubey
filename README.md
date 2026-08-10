@@ -447,24 +447,122 @@ JavaScript            █████████████░░░░ 75%
 Networking            ███████████░░░░░░ 65%
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Chaubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Chaubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+# 📊 GitHub Analytics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sarthak-Chaubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Chaubey&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.vercel.app/?user=Sarthak-Chaubey&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Chaubey&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sarthak-Chaubey/Sarthak-Chaubey/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+
+---
+# 🧩 LeetCode Analytics
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sarthak-Chaubey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=profile,solved,streak,skills,languages,heatmap&hide_border=true&short_numbers=true"
+    alt="LeetCode Analytics"
+  />
+</a>
 
 </p>
+
+---
+
+# 🔥 LeetCode Streak
+
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Chaubey&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=streak&hide_border=true"
+    alt="LeetCode Streak"
+  />
+</a>
 
 </p>
-<p align="center"> <a href="https://github.com/Sarthak-Chaubey/devsecops-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=devsecops-project&theme=tokyonight&hide_border=true" alt="DevSecOps Project" /> </a> <a href="https://github.com/Sarthak-Chaubey/Cyber-Lab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=Cyber-Lab&theme=tokyonight&hide_border=true" alt="Cyber Lab" /> </a> </p>
-<p align="center"> <a href="https://leetcode.com/u/sarthakchaubey07/"> <img src="https://leetcard.jacoblin.cool/sarthakchaubey07?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" /> </a> </p> <p align="center">
 
-<img src="https://leetcode-stats.vercel.app/api?username=sarthakchaubey07&theme=Dark" alt="LeetCode Statistics" />
+---
+
+# 📈 LeetCode Submission Graph
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://github-readme-leetcode-stats.vercel.app/api/card?theme=tokyonight&sections=heatmap&hide_border=true"
+    alt="LeetCode Submission Heatmap"
+  />
+</a>
+
+</p>
+
+---
+
+# 💻 LeetCode Profile
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sarthakchaubey07/">
+  <img
+    src="https://leetcard.jacoblin.cool/sarthakchaubey07?theme=dark&font=Fira%20Code&ext=contest"
+    alt="LeetCode Profile"
+  />
+</a>
 
 </p>
