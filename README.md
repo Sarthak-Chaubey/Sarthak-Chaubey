@@ -445,3 +445,26 @@ Linux                 ██████████████░░░ 78%
 Python                ████████████░░░░░ 70%
 JavaScript            █████████████░░░░ 75%
 Networking            ███████████░░░░░░ 65%
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak-Chaubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Chaubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sarthak-Chaubey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Chaubey&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</p>
+<p align="center"> <a href="https://github.com/Sarthak-Chaubey/devsecops-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=devsecops-project&theme=tokyonight&hide_border=true" alt="DevSecOps Project" /> </a> <a href="https://github.com/Sarthak-Chaubey/Cyber-Lab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Chaubey&repo=Cyber-Lab&theme=tokyonight&hide_border=true" alt="Cyber Lab" /> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/sarthakchaubey07/"> <img src="https://leetcard.jacoblin.cool/sarthakchaubey07?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" /> </a> </p> <p align="center">
+
+<img src="https://leetcode-stats.vercel.app/api?username=sarthakchaubey07&theme=Dark" alt="LeetCode Statistics" />
+
+</p>
